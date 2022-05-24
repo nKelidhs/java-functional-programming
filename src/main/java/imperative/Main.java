@@ -7,7 +7,6 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
 
-
         List<Person> persons = List.of(
                 new Person("Nikos", Gender.MALE),
                 new Person("Lena", Gender.FEMALE),
